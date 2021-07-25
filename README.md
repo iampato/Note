@@ -8,7 +8,7 @@ React web application for storing notes. Goal of this project is to:
 
 
 ## TODO
-- [ ] Setup the project file structure
+- [x] Setup the project file structure
 - [ ] Adding a simple UI
 - [ ] Do in memory storage
 - [ ] Add firebase cloud storage
