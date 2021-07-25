@@ -1,4 +1,4 @@
-#Note
+# Note
 
 React web application for storing notes. Goal of this project is to:
 
