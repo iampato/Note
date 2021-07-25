@@ -1,4 +1,5 @@
 #Note
+
 React web application for storing notes. Goal of this project is to:
 
 - Relearn react with typescript
