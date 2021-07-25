@@ -7,6 +7,7 @@
 export interface AccountModel {
     email_address: string;
     password:      string;
+
 }
 
 // Converts JSON strings to/from your types
