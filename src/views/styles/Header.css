@@ -1,0 +1,32 @@
+.header {
+    background-color: white;
+    width: 100%;
+    /*margin-top: 0;*/
+    /*position: fixed;*/
+    left: 0;
+    top: 0;
+    margin-bottom: 20px;
+}
+
+.header-content {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.header-content h4 {
+    display: inline;
+    margin: 0 auto;
+    padding-top: 10px;
+    float: left;
+}
+
+.app-logo {
+    padding-right: 29px;
+    height: 40px;
+    display: inline;
+    float: left;
+    margin: 0 auto;
+}
