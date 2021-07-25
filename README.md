@@ -13,6 +13,7 @@ React web application for storing notes. Goal of this project is to:
 - [ ] Do in memory storage
 - [ ] Add firebase cloud storage
 - [ ] Add Firebase Authentication
+- [ ] Setup firebase hosting and git actions for CI/CD
 
 
 ## Getting Started with Create React App
